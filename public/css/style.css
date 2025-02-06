@@ -1,0 +1,19 @@
+
+body {
+  margin: 35px;
+  padding: 50px;
+  border: 1px solid black;
+}
+
+header {
+  border-top: 1px solid black;
+  border-size: 60px;
+}
+
+.section-title, h2 {
+  color: green;
+}
+
+h4 {
+  color: blue;
+}
